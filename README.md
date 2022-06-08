@@ -3,7 +3,7 @@
 ### About Me 👋
 - 📫 I will join the **AI Initiative@KAUST** as a PHD student in 2022 Fall, under the supervision of **[Prof. Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)**.
 - 😄 I’m currently working on **Multimodal Learning** and **Intelligent Agent**.
-- 🕺 Before pursing my PHD study, [Deng-Ping Fan (IIAI Team Lead)](https://dengpingfan.github.io/) served as my mentor for  two years while I was a master's student. 
+- 🕺 Before pursing my PHD study, [Deng-Ping Fan](https://dengpingfan.github.io/) served as my mentor for  two years while I was a master's student. 
 - 🫂 I have great 2-years relationships with [Ge-Peng Ji (ANU PHD)](https://github.com/GewelsJI) and [Jun Chen (KAUST PHD)](https://github.com/junchen14), who give me a lot of advice.
 - 🤖 Recent four years, I've worked as researcher (or intern) at [NSFocus](https://nsfocusglobal.com/), [Alibaba](https://www.alibaba.com/), [IIAI](https://www.inceptioniai.org/), and [SUSTech](https://www.sustech.edu.cn/en/).
 - 👉 You can find me at mczhuge@gmail.com!
