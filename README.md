@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=mczhuge&count_private=true&show_icons=true&theme=rose_pine&include_all_commits=true " />
 </a>
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=FFHQ-Text_Dataset&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/FFHQ-Text_Dataset)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=Kaleido-BERT&theme=rose_pine)](https://github.com/mczhuge/Kaleido-BERT)
 
 <img alt="Focusing" align="center" width="800"  src="./static/Felic Art.jpg" /> 
 
