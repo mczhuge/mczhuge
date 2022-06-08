@@ -5,7 +5,7 @@
 <img alt="Focusing" align="left" width="400"  src="./static/Felic Art.jpg" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yutong-Zhou-cv&label=Visitors&color=blue&style=plastic" alt="Yutong-Zhou-cv" /></p>
 **Yutong-Zhou-cv/Yutong-Zhou-cv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
+### About me 👋
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 I’m currently working on **Multimodal Learning** and **Intelligent Agent**.
 - 💬 You can find me at mczhuge@gmail.com!
 
-### 📈 Top Repositories
+### 🧩 Top Repositories
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=Kaleido-BERT&theme=rose_pine)](https://github.com/mczhuge/Kaleido-BERT)
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=ICON&theme=rose_pine)](https://github.com/mczhuge/ICON)
