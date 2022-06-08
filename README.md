@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mczhuge&theme=calm" alt="mczhuge" /></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yutong-Zhou-cv&theme=calm" />
+  <img align="left" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=mczhuge&theme=calm" />
 </a>
 
 
