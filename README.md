@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 - 😄 I’m currently working on **Multimodal Learning** and **Intelligent Agent**.
 - 💬 You can find me at mczhuge@gmail.com!
 
+### 📈 Top Repositories
+
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=Kaleido-BERT&theme=rose_pine)](https://github.com/mczhuge/Kaleido-BERT)
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=ICON&theme=rose_pine)](https://github.com/mczhuge/ICON)
 
 ### 📈 Stats
 
-[![MC's github stats](https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&theme=calm)](https://github.com/mczhuge/mczhuge)
-
-| <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mczhuge&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 -->
