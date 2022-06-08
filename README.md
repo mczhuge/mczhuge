@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Hey,%20Bro!%20%20&fontAlign=30&fontSize=30&textBg=true&desc=I'm%20Mingchen~&descAlign=60&descAlignY=50)
 
 ### About Me 👋
-- 📫 I will join the **AI Initiative@KAUST** in 2022 Fall, under the supervision of **[Prof. Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)**.
+- 📫 I will join the **AI Initiative@KAUST** as a Phd student in 2022 Fall, under the supervision of **[Prof. Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)**.
 - 😄 I’m currently working on **Multimodal Learning** and **Intelligent Agent**.
 - 💬 You can find me at mczhuge@gmail.com!
 
