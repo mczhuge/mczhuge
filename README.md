@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 - 📫 I will join in **AI Initiative@KAUST** in 2022 Fall, under the supervision of **[Prof. Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)**.
 - 😄 I’m currently working on **Multimodal Learning** and **Intelligent Agent**.
+- 💬 You can find me at mczhuge@gmail.com!
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=Kaleido-BERT&theme=rose_pine)](https://github.com/mczhuge/Kaleido-BERT)
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=ICON&theme=rose_pine)](https://github.com/mczhuge/ICON)
