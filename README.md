@@ -18,4 +18,3 @@
 - 🤖 Recent four years, I've worked as researcher (or intern) at [NSFocus](https://nsfocusglobal.com/), [Alibaba Group](https://www.alibaba.com/), [IIAI](https://www.inceptioniai.org/), and [SUSTech](https://www.sustech.edu.cn/en/).
 - 👉 You can find me at mczhuge@gmail.com!
  
--->
