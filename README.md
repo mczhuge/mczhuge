@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 </a>
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=Kaleido-BERT&theme=rose_pine)](https://github.com/mczhuge/Kaleido-BERT)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=ICON&theme=rose_pine)](https://github.com/mczhuge/ICON)
 
 ### 📈 Stats
 
@@ -35,10 +36,5 @@ Here are some ideas to get you started:
   <img align="left" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yutong-Zhou-cv&theme=calm" />
 </a>
 
- 
-### 🌞 Focusing Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=heartexlabs&repo=label-studio&theme=flag-india)](https://github.com/heartexlabs/label-studio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZPdesu&repo=Barbershop&theme=flag-india)](https://github.com/ZPdesu/Barbershop)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zyainfal&repo=One-Shot-Face-Swapping-on-Megapixels&theme=flag-india)](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)
 
 -->
