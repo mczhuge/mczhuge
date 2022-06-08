@@ -27,4 +27,8 @@ Here are some ideas to get you started:
 ### 📈 Stats
 
 [![MC's github stats](https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&theme=calm)](https://github.com/mczhuge/mczhuge)
+
+| <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 -->
