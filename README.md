@@ -3,6 +3,7 @@
 ### About Me 👋
 - 📫 I will join the **AI Initiative@KAUST** as a PHD student in 2022 Fall, under the supervision of **[Prof. Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)**.
 - 😄 I’m currently working on **Multimodal Learning** and **Intelligent Agent**.
+- 🫂 Before pursing my PHD study, [Deng-Ping Fan](https://dengpingfan.github.io/) mentored me for two years while I was a MS student. I've also worked at NSFocus, Alibaba, the Inception Institute of AI (IIAI), and SUSTech.
 - 💬 You can find me at mczhuge@gmail.com!
 
 ### 🧩 Top Repositories
