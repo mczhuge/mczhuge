@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 I’m currently working on **Multimodal Learning** and **Intelligent Agent**.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&count_private=true&show_icons=true&theme=rose_pine&include_all_commits=true " />
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=mczhuge&count_private=true&show_icons=true&theme=rose_pine&include_all_commits=true " />
 </a>
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=FFHQ-Text_Dataset&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/FFHQ-Text_Dataset)
