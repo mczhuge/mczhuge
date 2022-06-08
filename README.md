@@ -17,7 +17,7 @@
 - 😄 I’m currently working on **Multimodal Learning** and **Intelligent Agent**.
 - 🕺 Before pursing my PHD study, [Deng-Ping Fan](https://dengpingfan.github.io/) served as my mentor for  two years while I was a master's student. 
 - 🫂 I have great peer relationships with [Ge-Peng Ji (ANU)](https://github.com/GewelsJI), [Jun Chen (KAUST)](https://github.com/junchen14) and [Jingfei Xia (CUHK)]().
-- 🤖 Recent four years, I've worked as a researcher (or intern) at [NSFocus](https://nsfocusglobal.com/), [Alibaba Group](https://www.alibaba.com/), [IIAI](https://www.inceptioniai.org/), and [SUSTech](https://www.sustech.edu.cn/en/).
+- 🤖 Recent four years, I've worked as a researcher (or intern) at [Alibaba Group](https://www.alibaba.com/)(Host: Dehong Gao), [IIAI](https://www.inceptioniai.org/)(Host: Ling Shao), and [SUSTech](https://www.sustech.edu.cn/en/)(Host: Feng Zheng).
 - 👉 You can find me at mczhuge@gmail.com!
  
 ### 📈 Stats
