@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hi, I'm Mingchen. 🌱&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=30&desc=🌼𝔅𝔢𝔱𝔱𝔢𝔯%20𝔩𝔞𝔱𝔢%20𝔱𝔥𝔞𝔫%20𝔫𝔢𝔳𝔢𝔯!🌼&descAlignY=55&descAlign=85)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hi,%20I'm Mingchen. 🌱&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=30&desc=🌼𝔅𝔢𝔱𝔱𝔢𝔯%20𝔩𝔞𝔱𝔢%20𝔱𝔥𝔞𝔫%20𝔫𝔢𝔳𝔢𝔯!🌼&descAlignY=55&descAlign=85)
 
 <!--
 <img alt="Focusing" align="left" width="400"  src="./static/Felic Art.jpg" /> 
