@@ -1,4 +1,9 @@
+<!--
+
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Hey,%20Bro!%20%20&fontAlign=30&fontSize=30&textBg=true&desc=I'm%20Mingchen.&descAlign=60&descAlignY=50)
+
+-->
+
 
 ### 🧩 Top Repositories
 
