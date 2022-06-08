@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 - 📫 I will join in **AI Initiative@KAUST** in 2022 Fall, under the supervision of **[Prof. Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)**.
 - 😄 I’m currently working on **Multimodal Learning** and **Intelligent Agent**.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=mczhuge&count_private=true&show_icons=true&theme=rose_pine&include_all_commits=true " />
-</a>
-
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=Kaleido-BERT&theme=rose_pine)](https://github.com/mczhuge/Kaleido-BERT)
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=ICON&theme=rose_pine)](https://github.com/mczhuge/ICON)
 
