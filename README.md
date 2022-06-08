@@ -28,31 +28,6 @@ Here are some ideas to get you started:
 
 <img alt="Focusing" align="center" width="800"  src="./static/Felic Art.jpg" /> 
 
-### 🍬 Awesome Repo
-<a href="https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=rose_pine" />
-</a>
-<a href="https://github.com/Yutong-Zhou-cv/awesome-Transformer-in-CV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Transformer-in-CV&theme=rose_pine" />
-</a>
-<a href="https://github.com/Yutong-Zhou-cv/Awesome-Survey-Papers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Survey-Papers&theme=rose_pine" />
-</a>
-<a href="https://github.com/Yutong-Zhou-cv/Awesome-Multimodality">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Multimodality&theme=rose_pine" />
-</a>
-
-<!--
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=rose_pine)](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)
-
-<img src="./static/github-metrics.svg" alt="Metrics" width="100%">
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yutong-Zhou-cv&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&margin-w=15" alt="Yutong-Zhou-cv" /></a> </p>
-
-<img alt="Multimodality" height="80px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-Multimodality&theme=swift" />
-
-<img src="./static/github-my-contribution.svg" alt="Metrics" width="100%">
 
 ### 📈 Stats
 
