@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yutong-Zhou-cv&theme=nord_bright)
 <h1 align="center">Hi, I'm @ Yutong 🌱</h1>
 -->
+### Hi there 👋
 - 📫 I will join in **AI Initiative@KAUST** in 2022 Fall, under the supervision of **[Prof. Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)**.
 - 😄 I’m currently working on **Multimodal Learning** and **Intelligent Agent**.
 - 💬 You can find me at mczhuge@gmail.com!
