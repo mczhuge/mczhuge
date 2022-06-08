@@ -63,14 +63,6 @@ Here are some ideas to get you started:
   <img align="left" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yutong-Zhou-cv&theme=calm" />
 </a>
 
-### ✨ Awesome Repo
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=Awesome-AI-in-Beauty-Industry&theme=flag-india)](https://github.com/Yutong-Zhou-cv/Awesome-AI-in-Beauty-Industry)
-
-<p align="center">
-  <img alt="Text-to-Image" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=swift" />
-  <img alt="Transformer-in-CV" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Transformer-in-CV&theme=swift" />
-</p>
  
 ### 🌞 Focusing Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=heartexlabs&repo=label-studio&theme=flag-india)](https://github.com/heartexlabs/label-studio)
