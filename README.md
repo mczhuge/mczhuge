@@ -26,13 +26,10 @@ Here are some ideas to get you started:
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=Kaleido-BERT&theme=rose_pine)](https://github.com/mczhuge/Kaleido-BERT)
 
-<img alt="Focusing" align="center" width="800"  src="./static/Felic Art.jpg" /> 
-
-
 ### 📈 Stats
 
-[![Yutong-Zhou-cv's github stats](https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&show_icons=true&theme=calm)](https://github.com/Yutong-Zhou-cv/Yutong-Zhou-cv)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yutong-Zhou-cv&theme=calm" alt="Yutong-Zhou-cv" /></p>
+[![MC's github stats](https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&theme=calm)](https://github.com/mczhuge/mczhuge)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mczhuge&theme=calm" alt="mczhuge" /></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yutong-Zhou-cv&theme=calm" />
