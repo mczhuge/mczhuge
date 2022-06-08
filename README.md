@@ -29,9 +29,5 @@ Here are some ideas to get you started:
 [![MC's github stats](https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&theme=calm)](https://github.com/mczhuge/mczhuge)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mczhuge&theme=calm" alt="mczhuge" /></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=mczhuge&theme=calm" />
-</a>
-
 
 -->
