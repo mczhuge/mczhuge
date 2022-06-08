@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm @ Yutong 🌱</h1>
 -->
 
-- 🌻 I’m currently working on **Vision-Language Cooperative Representation** and **Multi-Modalities Learning**.
-- 🤔 I’m currently learning on **Transformer** and **CLIP**.
+- 😄 I’m currently working on **Multimodal Learning** and **Intelligent Agent**.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutong-Zhou-cv&count_private=true&show_icons=true&theme=rose_pine&include_all_commits=true " />
