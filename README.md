@@ -23,7 +23,7 @@
 <p> 
   <a href="https://github.com/mczhuge?tab=followers"> <img src="https://img.shields.io/github/stars/mczhuge?label=Stars&style=plastic" height="20px" alt="github follow" /> </a>
   <a href="mailto:mczhuge@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email"> </a>
-  <a href=""> <img src="https://img.shields.io/badge/Major-MM-black?style=plastic&logo=ABB%20RobotStudio&logoColor=ffffff" height="20px"> </a>
+  <a href=""> <img src="https://img.shields.io/badge/Major-Multimodal-pink?style=plastic&logo=ABB%20RobotStudio&logoColor=ffffff" height="20px"> </a>
   <a href=""> <img src="https://img.shields.io/badge/Use-Python-0076ab?style=plastic&logo=Python&logoColor=ffffff" height="20px"> </a>
   <a href="https://tramac.github.io/"><img src="https://img.shields.io/badge/More-Blog-red?style=plastic"height="20px"> </a>
   <a href="center"><img src="https://komarev.com/ghpvc/?username=mczhuge" alt="mczhuge" height="20px"> </a>
