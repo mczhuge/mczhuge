@@ -20,6 +20,12 @@
 - 👉 You can find me at mczhuge@gmail.com and [Google Scholar](https://scholar.google.com/citations?user=Qnj6XlMAAAAJ&hl=zh-CN&oi=ao)!
 
 
+### 📈 Stats
+
+| <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mczhuge&layout=compact&theme=buefy&hide_border=true" />|
+| ------------- | ------------- |
+
+
 <p> 
   <a href="https://github.com/mczhuge?tab=followers"> <img src="https://img.shields.io/github/stars/mczhuge?label=Stars&style=plastic" height="20px" alt="github follow" /> </a>
   <a href="mailto:mczhuge@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email"> </a>
@@ -28,11 +34,3 @@
   <a href="https://scholar.google.com/citations?user=Qnj6XlMAAAAJ&hl=zh-CN&oi=ao"><img src="https://img.shields.io/badge/More-Google Scholar-red?style=plastic"height="20px"> </a>
   <a href="center"><img src="https://komarev.com/ghpvc/?username=mczhuge" alt="mczhuge" height="20px"> </a>
 </p>
-
-
-### 📈 Stats
-
-| <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mczhuge&layout=compact&theme=buefy&hide_border=true" />|
-| ------------- | ------------- |
-
-
