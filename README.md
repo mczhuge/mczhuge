@@ -35,6 +35,6 @@
   <!--
   <a href=""> <img src="https://img.shields.io/badge/Use-Python-0076ab?style=plastic&logo=Python&logoColor=ffffff" height="20px"> </a>
    -->
-  <a href="https://scholar.google.com/citations?user=Qnj6XlMAAAAJ&hl=zh-CN&oi=ao"><img src="https://img.shields.io/badge/More-Google Scholar-red?style=plastic"height="20px"> </a>
+  <a href="https://scholar.google.com/citations?user=Qnj6XlMAAAAJ&hl=zh-CN&oi=ao"><img src="https://img.shields.io/badge/More-Google Scholar-green?style=plastic"height="20px"> </a>
   <a href="center"><img src="https://komarev.com/ghpvc/?username=mczhuge" alt="mczhuge" height="20px"> </a>
 </p>
