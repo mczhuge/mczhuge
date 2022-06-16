@@ -22,14 +22,10 @@
 
 <p> 
   <a href="https://github.com/mczhuge?tab=followers"> <img src="https://img.shields.io/github/stars/mczhuge?label=Stars&style=plastic" height="20px" alt="github follow" /> </a>
-  <a href="mailto:tramac0204@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email"> </a>
-  <a href="https://www.zhihu.com/people/qia-ka-ka-23"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="20px" alt="知乎"> </a>
-  <a href=""> <img src="https://img.shields.io/badge/Major-CV-black?style=plastic&logo=ABB%20RobotStudio&logoColor=ffffff" height="20px"> </a>
+  <a href="mailto:mczhuge@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email"> </a>
+  <a href=""> <img src="https://img.shields.io/badge/Major-MM-black?style=plastic&logo=ABB%20RobotStudio&logoColor=ffffff" height="20px"> </a>
   <a href=""> <img src="https://img.shields.io/badge/Use-Python-0076ab?style=plastic&logo=Python&logoColor=ffffff" height="20px"> </a>
   <a href="https://tramac.github.io/"><img src="https://img.shields.io/badge/More-Blog-red?style=plastic"height="20px"> </a>
-  <!--
-  <a href=""> <img src="https://img.shields.io/badge/Learn-C++-blueviolet?style=plastic&logo=Visual%20Studio%20Code&logoColor=ffffff" height="20px"> </a>
-  -->
 </p>
 
 
