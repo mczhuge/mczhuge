@@ -26,6 +26,7 @@
   <a href=""> <img src="https://img.shields.io/badge/Major-MM-black?style=plastic&logo=ABB%20RobotStudio&logoColor=ffffff" height="20px"> </a>
   <a href=""> <img src="https://img.shields.io/badge/Use-Python-0076ab?style=plastic&logo=Python&logoColor=ffffff" height="20px"> </a>
   <a href="https://tramac.github.io/"><img src="https://img.shields.io/badge/More-Blog-red?style=plastic"height="20px"> </a>
+  <a href="center"><img src="https://komarev.com/ghpvc/?username=mczhuge" alt="mczhuge" height="20px"> </a>
 </p>
 
 
@@ -34,4 +35,4 @@
 | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mczhuge&layout=compact&theme=buefy&hide_border=true" />|
 | ------------- | ------------- |
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=mczhuge" alt="mczhuge" /></p>
+
