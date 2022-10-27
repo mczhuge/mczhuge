@@ -9,7 +9,7 @@
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=Kaleido-BERT&theme=rose_pine)](https://github.com/mczhuge/Kaleido-BERT)
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=ICON&theme=rose_pine)](https://github.com/mczhuge/ICON)
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=ICON&theme=rose_pine)](https://github.com/GewelsJI/MVLT)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=MVLT&theme=rose_pine)](https://github.com/GewelsJI/MVLT)
 
 
 ### About Me 👋
