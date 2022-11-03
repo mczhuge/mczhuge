@@ -14,7 +14,7 @@
 
 ### About Me 👋
 - 📫 [2022/8] I join the **AI Initiative@KAUST** as a Ph.D. student in 2022 Fall, under the supervision of **[Prof. Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)**.
-- 😄 I’m currently working on **Multimodal Learning** and **Intelligent Agent**.
+- 😄 I’m currently working on **Multimodal Learning** and **Reinforcement Learning**.
 - 🕺 [Deng-Ping Fan](https://dengpingfan.github.io/) served as my external research mentor while I was a MS student (2018-2021), I am grateful to his powerful advice.
 - 🤖 Recent four years, I've worked as an engineer, researcher (or intern) at [NSFocus](https://nsfocusglobal.com/), [Alibaba Group](https://www.alibabagroup.com/en/global/home), [IIAI](https://www.inceptioniai.org/), [SUSTech](https://www.sustech.edu.cn/en/) and [Microsoft]().
 - 👉 You can find me at mczhuge@gmail.com, [LinkedIn](https://www.linkedin.com/in/mczhuge/) and [Google Scholar](https://scholar.google.com/citations?user=Qnj6XlMAAAAJ&hl=zh-CN&oi=ao)!
