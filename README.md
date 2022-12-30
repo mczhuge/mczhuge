@@ -18,6 +18,9 @@
 - 🕺 [Deng-Ping Fan](https://dengpingfan.github.io/) served as my external research mentor while I was a MS student (2018-2021). Thanks!
 - 🤖 Recent four years (before PhD), I've worked as an engineer, researcher (or intern) at [NSFocus](https://nsfocusglobal.com/), [Alibaba Group](https://www.alibabagroup.com/en/global/home), [IIAI](https://www.inceptioniai.org/), [SUSTech](https://www.sustech.edu.cn/en/) and [Microsoft]().
 - 👉 You can find me at mczhuge@gmail.com, [LinkedIn](https://www.linkedin.com/in/mczhuge/) and [Google Scholar](https://scholar.google.com/citations?user=Qnj6XlMAAAAJ&hl=zh-CN&oi=ao)!
+- Talk at [MBZUAI: "Behind Images: Space-Time Detection with Open-World Knowledge"]() on Dec 27, 2022.
+- Talk at [机器之心: 走进全球顶尖实验室 IIAI](https://app6ca5octe2206.pc.xiaoe-tech.com/p/t_pc/course_pc_detail/video/v_609cd21de4b0fe322012dd28) on May 15, 2021 
+
 
 <!--
 % - Reviewer: TIP, PR, NeuroComputing | CVPR2022, ECCV2022, NeurIPS2022, WACV2022
