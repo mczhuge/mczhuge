@@ -21,7 +21,7 @@
 
 ### Invited Talk 
 - [MBZUAI: "Behind Images"](https://mbzuai.ac.ae/study/faculty/huan-xiong/) on Dec 27, 2022.
-- [机器之心: "走进全球顶尖实验室-IIAI"](https://app6ca5octe2206.pc.xiaoe-tech.com/p/t_pc/course_pc_detail/video/v_609cd21de4b0fe322012dd28) on May 15, 2021 
+- [机器之心: "走进全球顶尖实验室-IIAI"](https://app6ca5octe2206.pc.xiaoe-tech.com/p/t_pc/course_pc_detail/video/v_609cd21de4b0fe322012dd28) on May 13, 2021 
 
 
 <!--
