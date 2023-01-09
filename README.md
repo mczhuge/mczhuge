@@ -12,6 +12,7 @@
 <!--[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=MVLT&theme=rose_pine)](https://github.com/GewelsJI/MVLT)-->
 
 
+
 ### About Me 👋
 - 📫 [2022/8] I join the **AI Initiative@KAUST** as a Ph.D. student in 2022 Fall, under the supervision of **[Prof. Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)**.
 - 😄 I’m currently working on **Multimodal Learning** and **Reinforcement Learning**.
@@ -31,8 +32,9 @@
 
 ### 📈 Stats
 
-| <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mczhuge&layout=compact&theme=buefy&hide_border=true" />|
+| <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mczhuge&theme=sea-dark&hide_border=true&background=A7BAFCE0" />|
 | ------------- | ------------- |
+
 
 
 <p> 
