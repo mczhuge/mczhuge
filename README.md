@@ -7,12 +7,12 @@
 
 ### 🧩 Top Repositories
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=Kaleido-BERT&theme=rose_pine)](https://github.com/mczhuge/Kaleido-BERT)
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=ICON&theme=rose_pine)](https://github.com/mczhuge/ICON)
-<!--[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=GewelsJI&repo=MVLT&theme=rose_pine)](https://github.com/GewelsJI/MVLT)-->
 
 <a href="https://github.com/mczhuge/Kaleido-BERT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=Kaleido-BERT&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
+</a>
+<a href="https://github.com/mczhuge/ICON">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=ICON&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
 </a>
 
 ### About Me 👋
