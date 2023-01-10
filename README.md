@@ -29,7 +29,7 @@
 ### Services
 - CVPR2023, CVPR2022, ECCV2022
 - ICML2022, NeurIPS2022
-- TIP, PR, MIR, etc.
+- TIP, PR, MIR, *etc*.
 
 <!--
 % - Reviewer: TIP, PR, NeuroComputing | CVPR2022, ECCV2022, NeurIPS2022, WACV2022
