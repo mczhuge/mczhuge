@@ -31,7 +31,7 @@
 - PC Member: IJCAI
 -->
 - Reviewer: ICCV23, CVPR23, AAAI23, ECCV22, CVPR22, ICML22, NeurIPS22, AAAI22 
-- Assitant Researcher: [MIR - Multimodal Special Issue]()
+- Assitant Researcher: [MIR - Multimodal Special Issue](https://mp.weixin.qq.com/s/G8LjgU3GdEehOyaSIlrUbw)
 
 <!--
 % - Reviewer: TIP, PR, NeuroComputing | CVPR2022, ECCV2022, NeurIPS2022, WACV2022
