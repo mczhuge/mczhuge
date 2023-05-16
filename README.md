@@ -29,7 +29,7 @@
 ### Services
 - **Outstanding Reviewer of CVPR2023 (232 out of 7000+)**
 - Reviewer: ICCV21,23, CVPR22,23, AAAI22-23, ECCV22, ICML22-23, NeurIPS22
-- Assitant: [MIR - Multimodal Special Issue](https://mp.weixin.qq.com/s/G8LjgU3GdEehOyaSIlrUbw) **(Welecome for submitting before 1 July, 2023)**
+- Assitant: [MIR - Multimodal Special Issue](https://mp.weixin.qq.com/s/G8LjgU3GdEehOyaSIlrUbw) **(Welecome to submit before 1 July, 2023)**
 
 <!--
 - PC Member: IJCAI
