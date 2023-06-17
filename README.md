@@ -36,15 +36,7 @@
 % - Reviewer: TIP, PR, NeuroComputing | CVPR2022, ECCV2022, NeurIPS2022, WACV2022
 -->
 
-<!--
-### 📈 Stats
 
-<!--
-| <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mczhuge&theme=sea-dark&hide_border=true&background=A7BAFCE0" />|
-| ------------- | ------------- |
--->
-<a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" alt="Anurag's github stats" /></a>
--->
 
 <p> 
   <!--
@@ -58,3 +50,10 @@
   <a href="https://scholar.google.com/citations?user=Qnj6XlMAAAAJ&hl=zh-CN&oi=ao"><img src="https://img.shields.io/badge/More-Google Scholar-green?style=plastic"height="20px"> </a>
   <a href="center"><img src="https://komarev.com/ghpvc/?username=mczhuge" alt="mczhuge" height="20px"> </a>
 </p>
+
+
+
+<!--
+### 📈 Stats
+<a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" alt="Anurag's github stats" /></a>
+-->
