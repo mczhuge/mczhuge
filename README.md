@@ -27,7 +27,7 @@
 - [机器之心: "走进全球顶尖实验室-IIAI-Multimodal Pre-training in E-commerce"](https://app6ca5octe2206.pc.xiaoe-tech.com/p/t_pc/course_pc_detail/video/v_609cd21de4b0fe322012dd28) on May 13, 2021 
 
 ### Services
-- **Outstanding Reviewer of CVPR2023 (232 out of 7000+)**
+- **[Outstanding Reviewer](https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers) of CVPR2023 (232 out of 7000+)**
 - Reviewer: ICCV21,23, CVPR22,23, AAAI22-23, ECCV22, ICML22-23, NeurIPS22
 - Assitant: [MIR - Multimodal Special Issue](https://mp.weixin.qq.com/s/G8LjgU3GdEehOyaSIlrUbw) **(Welecome to submit before 1 July, 2023)**
 
