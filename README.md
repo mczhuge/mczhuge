@@ -17,7 +17,7 @@
 - 😄 I’m currently working on **Multimodal Learning** (~4 years).
 - 🕺 [Deng-Ping Fan](https://dengpingfan.github.io/) and [Dehong Gao](https://scholar.google.com/citations?user=0uPb8MMAAAAJ&hl=en&oi=ao) served as my external research mentors while I was a MS student (2018-2021). Thanks!
 - 🤖 Recent four years (before PhD), I've worked as an engineer, researcher (or intern) at [NSFocus](https://nsfocusglobal.com/), [Alibaba Group](https://www.alibabagroup.com/en/global/home), [IIAI](https://www.inceptioniai.org/), [SUSTech (VIP Lab)](https://zhengfenglab.com) and [Microsoft (WizardLM)](https://www.microsoft.com/en-us/research/group/stca-semantics-and-knowledge-team/). 
-- 👉 You can find me at mczhuge@gmail.com, [LinkedIn](https://www.linkedin.com/in/mczhuge/) and [Google Scholar](https://scholar.google.com/citations?user=Qnj6XlMAAAAJ&hl=zh-CN&oi=ao)!
+- 👉 My interests include multimodal learning, intelligent agents, LLM, code generation, and self-improvement mechanisms. You can find me at mczhuge@gmail.com, [LinkedIn](https://www.linkedin.com/in/mczhuge/) and [Google Scholar](https://scholar.google.com/citations?user=Qnj6XlMAAAAJ&hl=zh-CN&oi=ao)!
 
 <!--Thanks: [Wenmao Liu](https://www.linkedin.com/in/liuwenmao/?originalSubdomain=cn), [Dehong Gao](https://scholar.google.com/citations?user=0uPb8MMAAAAJ&hl=en&oi=ao), [Deng-Ping Fan](https://dengpingfan.github.io), [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en), [Feng Zheng](https://scholar.google.co.uk/citations?user=PcmyXHMAAAAJ&hl=en), [Chongyang Tao](https://scholar.google.com/citations?user=x_cOKuwAAAAJ&hl=zh-CN).
 -->
