@@ -12,6 +12,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=Kaleido-BERT&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
 </a>
 
+<a href="https://github.com/geekan/MetaGPT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekan&repo=MetaGPT&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
+</a>
+
 ### About Me 👋
 - 📫 [2022/8] I join the **AI Initiative@KAUST** as a Ph.D. student in 2022 Fall, under the supervision of **[Prof. Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)**.
 - 😄 I’m currently working on **Multimodal Learning** (~4 years).
