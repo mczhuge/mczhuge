@@ -28,7 +28,7 @@
 
 ### Invited Talk 
 - [MBZUAI: "Behind Images"](https://mbzuai.ac.ae/study/faculty/huan-xiong/) on Dec 27, 2022.
-- [机器之心: "走进全球顶尖实验室-IIAI-Multimodal Pre-training in E-commerce"](https://mp.weixin.qq.com/s/4UMyNyUKVtcZOxTrKbF4wQ) on May 13, 2021 
+- [机器之心: "走进全球顶尖实验室第一期-IIAI"](https://mp.weixin.qq.com/s/4UMyNyUKVtcZOxTrKbF4wQ) on May 13, 2021 
 
 ### Services
 - **[Outstanding Reviewer](https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers) of CVPR2023 (232 out of 7000+)**
