@@ -17,7 +17,7 @@
 </a>
 
 ### Make some noises 🍻
-- 📫 [2022/8] I join the **AI Initiative@KAUST** as a Ph.D. student in 2022 Fall, under the supervision of **[Prof. Jürgen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)**. My PhD application presentation (the first meeting with Jürgen), about **Intelligent Agent**, was drafted in late 2021.
+- 📫 [2022/8] I join the **AI Initiative@KAUST** as a Ph.D. student in 2022 Fall, under the supervision of **[Prof. Jürgen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)**. 
 - 😄 I have been working on **Multimodal Learning** for ~4 years. 
 - 🕺 [Deng-Ping Fan](https://dengpingfan.github.io/) and [Dehong Gao](https://scholar.google.com/citations?user=0uPb8MMAAAAJ&hl=en&oi=ao) served as my external research mentors while I was a MS student (2018-2021). Thanks!
 - 🤖 Recent four years (before PhD), I've worked as an engineer, researcher (or intern) at [NSFocus](https://nsfocusglobal.com/), [Alibaba Group](https://www.alibabagroup.com/en/global/home), [IIAI](https://www.inceptioniai.org/), [SUSTech (VIP Lab)](https://zhengfenglab.com) and [Microsoft (WizardLM)](https://github.com/nlpxucan/WizardLM).
