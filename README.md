@@ -21,12 +21,13 @@
 </a>
 
 ### Make some noises 🍻
+- I build my personal website and will sync everything in [metauto.ai](https://metauto.ai) or [![Twitter Follow](https://img.shields.io/twitter/follow/MingchenZhuge?style=social)](https://twitter.com/MingchenZhuge).
 - 📫 [2022/8] I join the **AI Initiative@KAUST** as a Ph.D. student in 2022 Fall, under the supervision of **[Prof. Jürgen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)**. 
 - 😄 I have been working on **Multimodal Learning** for ~4 years. 
 - 🕺 [Deng-Ping Fan](https://dengpingfan.github.io/) and [Dehong Gao](https://scholar.google.com/citations?user=0uPb8MMAAAAJ&hl=en&oi=ao) served as my external research mentors while I was a MS student (2018-2021). Thanks!
 - 🤖 Recent four years (before PhD), I've worked as an engineer, researcher (or intern) at [NSFocus](https://nsfocusglobal.com/), [Alibaba Group](https://www.alibabagroup.com/en/global/home), [IIAI](https://www.inceptioniai.org/), [SUSTech (VIP Lab)](https://zhengfenglab.com) and [Microsoft (WizardLM)](https://github.com/nlpxucan/WizardLM).
 - 🌟 I am active in [MetaGPT](https://github.com/geekan/MetaGPT) open-source community; and I highly recommend my KAUST friends Deyao's and Jun's [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4).
-- 👉 My interests include multimodal learning, intelligent agents, LLM, code generation, and self-improvement mechanisms. You can find me at [Email](mingchen.zhuge@kaust.edu.sa), [LinkedIn](https://www.linkedin.com/in/mczhuge/), [Google Scholar](https://scholar.google.com/citations?user=Qnj6XlMAAAAJ&hl=zh-CN&oi=ao), [metauto.ai](https://metauto.ai) or [![Twitter Follow](https://img.shields.io/twitter/follow/MingchenZhuge?style=social)](https://twitter.com/MingchenZhuge)!
+- 👉 My interests include multimodal learning, intelligent agents, LLM, code generation, and self-improvement mechanisms. You can find me at [Email](mingchen.zhuge@kaust.edu.sa), [LinkedIn](https://www.linkedin.com/in/mczhuge/), [Google Scholar](https://scholar.google.com/citations?user=Qnj6XlMAAAAJ&hl=zh-CN&oi=ao)!
 
 <!--Thanks: [Wenmao Liu](https://www.linkedin.com/in/liuwenmao/?originalSubdomain=cn), [Dehong Gao](https://scholar.google.com/citations?user=0uPb8MMAAAAJ&hl=en&oi=ao), [Deng-Ping Fan](https://dengpingfan.github.io), [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en), [Feng Zheng](https://scholar.google.co.uk/citations?user=PcmyXHMAAAAJ&hl=en), [Chongyang Tao](https://scholar.google.com/citations?user=x_cOKuwAAAAJ&hl=zh-CN).
 -->
