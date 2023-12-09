@@ -21,7 +21,7 @@
 </a>
 
 ### Make some noises 🍻
-- I build my personal website and will sync everything in [metauto.ai](https://metauto.ai) or [![Twitter Follow](https://img.shields.io/twitter/follow/MingchenZhuge?style=social)](https://twitter.com/MingchenZhuge).
+- ✨ [2023/12] I build my personal website and will sync everything in [metauto.ai](https://metauto.ai) or [![Twitter Follow](https://img.shields.io/twitter/follow/MingchenZhuge?style=social)](https://twitter.com/MingchenZhuge).
 - 📫 [2022/8] I join the **AI Initiative@KAUST** as a Ph.D. student in 2022 Fall, under the supervision of **[Prof. Jürgen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)**. 
 - 😄 I have been working on **Multimodal Learning** for ~4 years. 
 - 🕺 [Deng-Ping Fan](https://dengpingfan.github.io/) and [Dehong Gao](https://scholar.google.com/citations?user=0uPb8MMAAAAJ&hl=en&oi=ao) served as my external research mentors while I was a MS student (2018-2021). Thanks!
