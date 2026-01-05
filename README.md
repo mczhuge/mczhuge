@@ -7,19 +7,12 @@
 
 ## 🧩 Top Repositories
 
-[![Kaleido-BERT](https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=Kaleido-BERT&theme=graywhite&hide_border=true&cache_seconds=86400)](https://github.com/metauto-ai/Kaleido-BERT)
-
-[![MetaGPT](https://github-readme-stats.vercel.app/api/pin/?username=geekan&repo=MetaGPT&theme=graywhite&hide_border=true&cache_seconds=86400)](https://github.com/geekan/MetaGPT)
-
-[![GPTSwarm](https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=GPTSwarm&theme=graywhite&hide_border=true&cache_seconds=86400)](https://github.com/metauto-ai/GPTSwarm)
-
-[![OpenHands](https://github-readme-stats.vercel.app/api/pin/?username=All-Hands-AI&repo=OpenHands&theme=graywhite&hide_border=true&cache_seconds=86400)](https://github.com/All-Hands-AI/OpenHands)
-
-[![agent-as-a-judge](https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=agent-as-a-judge&theme=graywhite&hide_border=true&cache_seconds=86400)](https://github.com/metauto-ai/agent-as-a-judge)
-
-[![NLSOM](https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=NLSOM&theme=graywhite&hide_border=true&cache_seconds=86400)](https://github.com/metauto-ai/NLSOM)
-
-
+[![Kaleido-BERT](./assets/repos/kaleido-bert.svg)](https://github.com/metauto-ai/Kaleido-BERT)  
+[![MetaGPT](./assets/repos/metagpt.svg)](https://github.com/geekan/MetaGPT)  
+[![GPTSwarm](./assets/repos/gptswarm.svg)](https://github.com/metauto-ai/GPTSwarm)  
+[![OpenHands](./assets/repos/openhands.svg)](https://github.com/All-Hands-AI/OpenHands)  
+[![agent-as-a-judge](./assets/repos/agent-as-a-judge.svg)](https://github.com/metauto-ai/agent-as-a-judge)  
+[![NLSOM](./assets/repos/nlsom.svg)](https://github.com/metauto-ai/NLSOM)
 
 
 ### Make some noises 🍻
