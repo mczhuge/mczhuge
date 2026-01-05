@@ -5,38 +5,20 @@
 -->
 
 
-### 🧩 Top Repositories
+## 🧩 Top Repositories
 
+[![Kaleido-BERT](https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=Kaleido-BERT&theme=graywhite&hide_border=true&cache_seconds=86400)](https://github.com/metauto-ai/Kaleido-BERT)
 
-<a href="https://github.com/metauto-ai/Kaleido-BERT">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=Kaleido-BERT&theme=graywhite&hide_border=true" />
-</a>
+[![MetaGPT](https://github-readme-stats.vercel.app/api/pin/?username=geekan&repo=MetaGPT&theme=graywhite&hide_border=true&cache_seconds=86400)](https://github.com/geekan/MetaGPT)
 
-<a href="https://github.com/geekan/MetaGPT">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=geekan&repo=MetaGPT&theme=graywhite&hide_border=true" />
-</a>
+[![GPTSwarm](https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=GPTSwarm&theme=graywhite&hide_border=true&cache_seconds=86400)](https://github.com/metauto-ai/GPTSwarm)
 
-<a href="https://github.com/metauto-ai/GPTSwarm">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=GPTSwarm&theme=graywhite&hide_border=true" />
-</a>
+[![OpenHands](https://github-readme-stats.vercel.app/api/pin/?username=All-Hands-AI&repo=OpenHands&theme=graywhite&hide_border=true&cache_seconds=86400)](https://github.com/All-Hands-AI/OpenHands)
 
-<a href="https://github.com/All-Hands-AI/OpenHands">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=All-Hands-AI&repo=OpenHands&theme=graywhite&hide_border=true" />
-</a>
+[![agent-as-a-judge](https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=agent-as-a-judge&theme=graywhite&hide_border=true&cache_seconds=86400)](https://github.com/metauto-ai/agent-as-a-judge)
 
-<a href="https://github.com/metauto-ai/agent-as-a-judge">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=agent-as-a-judge&theme=graywhite&hide_border=true" />
-</a>
+[![NLSOM](https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=NLSOM&theme=graywhite&hide_border=true&cache_seconds=86400)](https://github.com/metauto-ai/NLSOM)
 
-<a href="https://github.com/metauto-ai/NLSOM">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=NLSOM&theme=graywhite&hide_border=true" />
-</a>
 
 
 
