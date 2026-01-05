@@ -7,12 +7,20 @@
 
 ## 🧩 Top Repositories
 
-[![Kaleido-BERT](./assets/repos/kaleido-bert.svg)](https://github.com/metauto-ai/Kaleido-BERT)  
-[![MetaGPT](./assets/repos/metagpt.svg)](https://github.com/geekan/MetaGPT)  
-[![GPTSwarm](./assets/repos/gptswarm.svg)](https://github.com/metauto-ai/GPTSwarm)  
-[![OpenHands](./assets/repos/openhands.svg)](https://github.com/All-Hands-AI/OpenHands)  
-[![agent-as-a-judge](./assets/repos/agent-as-a-judge.svg)](https://github.com/metauto-ai/agent-as-a-judge)  
-[![NLSOM](./assets/repos/nlsom.svg)](https://github.com/metauto-ai/NLSOM)
+## 🧩 Top Repositories
+
+<a href="https://github.com/metauto-ai/Kaleido-BERT"><img align="center" src="./assets/repos/kaleido-bert.svg" height="34" /></a>&nbsp;<img align="center" src="https://img.shields.io/github/stars/metauto-ai/Kaleido-BERT?style=flat&label=%E2%98%85&color=lightgrey" height="18" />
+  
+<a href="https://github.com/geekan/MetaGPT"><img align="center" src="./assets/repos/metagpt.svg" height="34" /></a>&nbsp;<img align="center" src="https://img.shields.io/github/stars/geekan/MetaGPT?style=flat&label=%E2%98%85&color=lightgrey" height="18" />
+  
+<a href="https://github.com/metauto-ai/GPTSwarm"><img align="center" src="./assets/repos/gptswarm.svg" height="34" /></a>&nbsp;<img align="center" src="https://img.shields.io/github/stars/metauto-ai/GPTSwarm?style=flat&label=%E2%98%85&color=lightgrey" height="18" />
+  
+<a href="https://github.com/All-Hands-AI/OpenHands"><img align="center" src="./assets/repos/openhands.svg" height="34" /></a>&nbsp;<img align="center" src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat&label=%E2%98%85&color=lightgrey" height="18" />
+  
+<a href="https://github.com/metauto-ai/agent-as-a-judge"><img align="center" src="./assets/repos/agent-as-a-judge.svg" height="34" /></a>&nbsp;<img align="center" src="https://img.shields.io/github/stars/metauto-ai/agent-as-a-judge?style=flat&label=%E2%98%85&color=lightgrey" height="18" />
+  
+<a href="https://github.com/metauto-ai/NLSOM"><img align="center" src="./assets/repos/nlsom.svg" height="34" /></a>&nbsp;<img align="center" src="https://img.shields.io/github/stars/metauto-ai/NLSOM?style=flat&label=%E2%98%85&color=lightgrey" height="18" />
+
 
 
 ### Make some noises 🍻
