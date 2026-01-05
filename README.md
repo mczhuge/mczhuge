@@ -7,8 +7,6 @@
 
 ## 🧩 Top Repositories
 
-## 🧩 Top Repositories
-
 <a href="https://github.com/metauto-ai/Kaleido-BERT"><img align="center" src="./assets/repos/kaleido-bert.svg" height="34" /></a>&nbsp;<img align="center" src="https://img.shields.io/github/stars/metauto-ai/Kaleido-BERT?style=flat&label=%E2%98%85&color=lightgrey" height="18" />
   
 <a href="https://github.com/geekan/MetaGPT"><img align="center" src="./assets/repos/metagpt.svg" height="34" /></a>&nbsp;<img align="center" src="https://img.shields.io/github/stars/geekan/MetaGPT?style=flat&label=%E2%98%85&color=lightgrey" height="18" />
