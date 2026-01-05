@@ -9,34 +9,35 @@
 
 
 <a href="https://github.com/metauto-ai/Kaleido-BERT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=Kaleido-BERT&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=Kaleido-BERT&theme=graywhite&hide_border=true" />
 </a>
 
 <a href="https://github.com/geekan/MetaGPT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekan&repo=MetaGPT&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=geekan&repo=MetaGPT&theme=graywhite&hide_border=true" />
 </a>
-
-<!--
-<a href="https://github.com/mczhuge/NLSOM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mczhuge&repo=NLSOM&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
-</a>
--->
 
 <a href="https://github.com/metauto-ai/GPTSwarm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=GPTSwarm&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=GPTSwarm&theme=graywhite&hide_border=true" />
 </a>
 
 <a href="https://github.com/All-Hands-AI/OpenHands">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=All-Hands-AI&repo=OpenHands&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=All-Hands-AI&repo=OpenHands&theme=graywhite&hide_border=true" />
 </a>
 
 <a href="https://github.com/metauto-ai/agent-as-a-judge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=agent-as-a-judge&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=agent-as-a-judge&theme=graywhite&hide_border=true" />
 </a>
 
 <a href="https://github.com/metauto-ai/NLSOM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=NLSOM&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=metauto-ai&repo=NLSOM&theme=graywhite&hide_border=true" />
 </a>
+
 
 
 ### Make some noises 🍻
