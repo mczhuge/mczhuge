@@ -33,9 +33,6 @@
 <a href="https://github.com/metauto-ai/agent-as-a-judge">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=metauto-ai&repo=agent-as-a-judge&theme=gruvbox" />
 </a>
-<a href="https://github.com/metauto-ai/GPTSwarm">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=metauto-ai&repo=GPTSwarm&theme=gruvbox" />
-</a>
 <a href=https://github.com/metauto-ai/NLSOM">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=metauto-ai&repo=NLSOM&theme=gruvbox" />
 </a>
@@ -45,6 +42,9 @@
 <a href=https://github.com/metauto-ai/Pollux">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=metauto-ai&repo=Pollux&theme=gruvbox" />
 </a>
+<!-- <a href="https://github.com/metauto-ai/GPTSwarm">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=metauto-ai&repo=GPTSwarm&theme=gruvbox" />
+</a> -->
 
 ## GitHub Activity
 
