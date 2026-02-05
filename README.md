@@ -2,7 +2,7 @@
 
 ## Top Projects
 
-<a href="https://github.com/metauto-ai/Kaleido-BERT"><img align="center" src="./assets/repos/kaleido-bert.svg" height="34" /></a>&nbsp;<img align="center" src="https://img.shields.io/github/stars/metauto-ai/Kaleido-BERT?style=flat&label=%E2%98%85&color=lightgrey" height="18" />
+<!-- <a href="https://github.com/metauto-ai/Kaleido-BERT"><img align="center" src="./assets/repos/kaleido-bert.svg" height="34" /></a>&nbsp;<img align="center" src="https://img.shields.io/github/stars/metauto-ai/Kaleido-BERT?style=flat&label=%E2%98%85&color=lightgrey" height="18" />
   
 <a href="https://github.com/geekan/MetaGPT"><img align="center" src="./assets/repos/metagpt.svg" height="34" /></a>&nbsp;<img align="center" src="https://img.shields.io/github/stars/geekan/MetaGPT?style=flat&label=%E2%98%85&color=lightgrey" height="18" />
   
@@ -12,8 +12,39 @@
   
 <a href="https://github.com/metauto-ai/agent-as-a-judge"><img align="center" src="./assets/repos/agent-as-a-judge.svg" height="34" /></a>&nbsp;<img align="center" src="https://img.shields.io/github/stars/metauto-ai/agent-as-a-judge?style=flat&label=%E2%98%85&color=lightgrey" height="18" />
   
-<a href="https://github.com/metauto-ai/NLSOM"><img align="center" src="./assets/repos/nlsom.svg" height="34" /></a>&nbsp;<img align="center" src="https://img.shields.io/github/stars/metauto-ai/NLSOM?style=flat&label=%E2%98%85&color=lightgrey" height="18" />
+<a href="https://github.com/metauto-ai/NLSOM"><img align="center" src="./assets/repos/nlsom.svg" height="34" /></a>&nbsp;<img align="center" src="https://img.shields.io/github/stars/metauto-ai/NLSOM?style=flat&label=%E2%98%85&color=lightgrey" height="18" /> -->
 
+
+
+
+
+<a href="https://github.com/FoundationAgents/MetaGPT">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FoundationAgents&repo=MetaGPT&theme=gruvbox" />
+</a>
+<a href="https://github.com/All-Hands-AI/OpenHands">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=All-Hands-AI&repo=OpenHands&theme=gruvbox" />
+</a>
+<a href="https://github.com/metauto-ai/GPTSwarm">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=metauto-ai&repo=GPTSwarm&theme=gruvbox" />
+</a>
+<a href=https://github.com/metauto-ai/Kaleido-BERT">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=metauto-ai&repo=Kaleido-BERT&theme=gruvbox" />
+</a>
+<a href="https://github.com/metauto-ai/agent-as-a-judge">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=metauto-ai&repo=agent-as-a-judge&theme=gruvbox" />
+</a>
+<a href="https://github.com/metauto-ai/GPTSwarm">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=metauto-ai&repo=GPTSwarm&theme=gruvbox" />
+</a>
+<a href=https://github.com/metauto-ai/NLSOM">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=metauto-ai&repo=NLSOM&theme=gruvbox" />
+</a>
+<a href=https://github.com/metauto-ai/HGM">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=metauto-ai&repo=HGM&theme=gruvbox" />
+</a>
+<a href=https://github.com/metauto-ai/Pollux">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=metauto-ai&repo=Pollux&theme=gruvbox" />
+</a>
 
 ## GitHub Activity
 
