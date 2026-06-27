@@ -14,6 +14,8 @@
   
 <a href="https://github.com/metauto-ai/NLSOM"><img align="center" src="./assets/repos/nlsom.svg" height="34" /></a>&nbsp;<img align="center" src="https://img.shields.io/github/stars/metauto-ai/NLSOM?style=flat&label=%E2%98%85&color=lightgrey" height="18" /> -->
 
+<a href="https://github.com/metauto-ai/neuralcomputer"><img align="center" src="./assets/repos/metagpt.svg" height="34" /></a>&nbsp;<img align="center" src="https://img.shields.io/github/stars/metauto-ai/neuralcomputer?style=flat&label=%E2%98%85&color=lightgrey" height="18" />
+
 
 
 
